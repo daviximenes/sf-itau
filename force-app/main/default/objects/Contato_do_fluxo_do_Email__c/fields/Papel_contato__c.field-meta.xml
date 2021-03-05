@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Papel_contato__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <externalId>false</externalId>
+    <label>Papel do contato</label>
+    <referenceTo>Papel_do_Contato__c</referenceTo>
+    <relationshipLabel>Contatos do fluxo do Email</relationshipLabel>
+    <relationshipName>Contatos_do_fluxo_do_Email</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>
