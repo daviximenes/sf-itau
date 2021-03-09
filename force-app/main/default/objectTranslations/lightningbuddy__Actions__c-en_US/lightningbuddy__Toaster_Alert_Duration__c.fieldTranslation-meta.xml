@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Duration in seconds after which the alert will dismiss itself. --></help>
+    <label><!-- Toaster Alert Duration --></label>
+    <name>lightningbuddy__Toaster_Alert_Duration__c</name>
+</CustomFieldTranslation>

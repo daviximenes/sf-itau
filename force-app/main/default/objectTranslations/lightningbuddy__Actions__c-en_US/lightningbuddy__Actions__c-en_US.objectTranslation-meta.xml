@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>File Actions Layout</layout>
+        <sections>
+            <label><!-- What action to take --></label>
+            <section>What action to take</section>
+        </sections>
+        <sections>
+            <label><!-- When should they see the action --></label>
+            <section>When should they see the action</section>
+        </sections>
+        <sections>
+            <label><!-- Who should see this action --></label>
+            <section>Who should see this action</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Flow Actions Layout</layout>
+        <sections>
+            <label><!-- What action to take --></label>
+            <section>What action to take</section>
+        </sections>
+        <sections>
+            <label><!-- When should they see the action --></label>
+            <section>When should they see the action</section>
+        </sections>
+        <sections>
+            <label><!-- Who should see this action --></label>
+            <section>Who should see this action</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Guideme Actions Layout</layout>
+        <sections>
+            <label><!-- What action to take --></label>
+            <section>What action to take</section>
+        </sections>
+        <sections>
+            <label><!-- When should they see the action --></label>
+            <section>When should they see the action</section>
+        </sections>
+        <sections>
+            <label><!-- Who should see this action --></label>
+            <section>Who should see this action</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Image Carousel Actions Layout</layout>
+        <sections>
+            <label><!-- What action to take --></label>
+            <section>What action to take</section>
+        </sections>
+        <sections>
+            <label><!-- When should they see the action --></label>
+            <section>When should they see the action</section>
+        </sections>
+        <sections>
+            <label><!-- Who should see this action --></label>
+            <section>Who should see this action</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Object Quick Action Layout</layout>
+        <sections>
+            <label><!-- What action to take --></label>
+            <section>What action to take</section>
+        </sections>
+        <sections>
+            <label><!-- When should they see the action --></label>
+            <section>When should they see the action</section>
+        </sections>
+        <sections>
+            <label><!-- Who should see this action --></label>
+            <section>Who should see this action</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Popover Actions Layout</layout>
+        <sections>
+            <label><!-- What action to take --></label>
+            <section>What action to take</section>
+        </sections>
+        <sections>
+            <label><!-- When should they see the action --></label>
+            <section>When should they see the action</section>
+        </sections>
+        <sections>
+            <label><!-- Who should see this action --></label>
+            <section>Who should see this action</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Rich Text Actions Layout</layout>
+        <sections>
+            <label><!-- What action to take --></label>
+            <section>What action to take</section>
+        </sections>
+        <sections>
+            <label><!-- When should they see the action --></label>
+            <section>When should they see the action</section>
+        </sections>
+        <sections>
+            <label><!-- Who should see this action --></label>
+            <section>Who should see this action</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Toaster Alert Actions Layout</layout>
+        <sections>
+            <label><!-- What action to take --></label>
+            <section>What action to take</section>
+        </sections>
+        <sections>
+            <label><!-- When should they see the action --></label>
+            <section>When should they see the action</section>
+        </sections>
+        <sections>
+            <label><!-- Who should see this action --></label>
+            <section>Who should see this action</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Video Actions Layout</layout>
+        <sections>
+            <label><!-- What action to take --></label>
+            <section>What action to take</section>
+        </sections>
+        <sections>
+            <label><!-- When should they see the action --></label>
+            <section>When should they see the action</section>
+        </sections>
+        <sections>
+            <label><!-- Who should see this action --></label>
+            <section>Who should see this action</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Welcome Mat Actions Layout</layout>
+        <sections>
+            <label><!-- What action to take --></label>
+            <section>What action to take</section>
+        </sections>
+        <sections>
+            <label><!-- When should they see the action --></label>
+            <section>When should they see the action</section>
+        </sections>
+        <sections>
+            <label><!-- Who should see this action --></label>
+            <section>Who should see this action</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- File --></label>
+        <name>lightningbuddy__File</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Flow --></label>
+        <name>lightningbuddy__Flow</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Image Carousel --></label>
+        <name>lightningbuddy__Image_Carousel</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Object Quick Action --></label>
+        <name>lightningbuddy__Object_Quick_Action</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Popover --></label>
+        <name>lightningbuddy__Popover</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Rich Text --></label>
+        <name>lightningbuddy__Rich_Text</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Toaster Alert --></label>
+        <name>lightningbuddy__Toaster_Alert</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Video --></label>
+        <name>lightningbuddy__Video</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Welcome Mat --></label>
+        <name>lightningbuddy__Welcome_Mat</name>
+    </recordTypes>
+</CustomObjectTranslation>

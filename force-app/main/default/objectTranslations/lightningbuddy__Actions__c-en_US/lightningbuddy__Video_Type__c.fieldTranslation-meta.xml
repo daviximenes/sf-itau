@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Video Type --></label>
+    <name>lightningbuddy__Video_Type__c</name>
+    <picklistValues>
+        <masterLabel>Vimeo</masterLabel>
+        <translation><!-- Vimeo --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Youtube</masterLabel>
+        <translation><!-- Youtube --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

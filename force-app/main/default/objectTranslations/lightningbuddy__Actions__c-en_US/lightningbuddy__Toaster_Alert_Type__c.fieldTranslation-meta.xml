@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Toaster Alert Type --></label>
+    <name>lightningbuddy__Toaster_Alert_Type__c</name>
+    <picklistValues>
+        <masterLabel>error</masterLabel>
+        <translation><!-- error --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>info</masterLabel>
+        <translation><!-- info --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>other</masterLabel>
+        <translation><!-- other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>success</masterLabel>
+        <translation><!-- success --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>warning</masterLabel>
+        <translation><!-- warning --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Reserva --></label>
+    <name>Reserva__c</name>
+    <picklistValues>
+        <masterLabel>Confirmada</masterLabel>
+        <translation><!-- Confirmada --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Não Confirmada</masterLabel>
+        <translation><!-- Não Confirmada --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

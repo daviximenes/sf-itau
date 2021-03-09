@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Quick Action API Name --></label>
+    <name>lightningbuddy__Quick_Action_API_Name__c</name>
+</CustomFieldTranslation>

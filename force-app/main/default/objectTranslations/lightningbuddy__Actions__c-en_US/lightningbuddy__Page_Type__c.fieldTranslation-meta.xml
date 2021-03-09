@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Page Type --></label>
+    <name>lightningbuddy__Page_Type__c</name>
+    <picklistValues>
+        <masterLabel>Chatter</masterLabel>
+        <translation><!-- Chatter --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Chatter Group Detail</masterLabel>
+        <translation><!-- Chatter Group Detail --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dashboards Home</masterLabel>
+        <translation><!-- Dashboards Home --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Home</masterLabel>
+        <translation><!-- Home --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Record Detail</masterLabel>
+        <translation><!-- Record Detail --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Record Home</masterLabel>
+        <translation><!-- Record Home --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Record Update</masterLabel>
+        <translation><!-- Record Update --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports Home</masterLabel>
+        <translation><!-- Reports Home --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Task Detail From List</masterLabel>
+        <translation><!-- Task Detail From List --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Task home</masterLabel>
+        <translation><!-- Task home --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

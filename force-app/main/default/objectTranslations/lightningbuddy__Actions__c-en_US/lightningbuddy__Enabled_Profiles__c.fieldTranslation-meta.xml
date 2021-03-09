@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Comma separated list of profiles that should have this action triggered. --></help>
+    <label><!-- Enabled Profiles --></label>
+    <name>lightningbuddy__Enabled_Profiles__c</name>
+</CustomFieldTranslation>
