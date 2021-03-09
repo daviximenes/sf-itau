@@ -4,7 +4,7 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <externalId>false</externalId>
     <label>Papel do contato</label>
-    <referenceTo>Papel_do_Contato__c</referenceTo>
+    <referenceTo>Papel_contato__c</referenceTo>
     <relationshipLabel>Contatos do fluxo do Email</relationshipLabel>
     <relationshipName>Contatos_do_fluxo_do_Email</relationshipName>
     <required>false</required>

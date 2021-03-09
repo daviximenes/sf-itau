@@ -12,27 +12,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Emirados Árabes Unidos</integrationValue>
+            <integrationValue>United Arab Emirates</integrationValue>
             <isoCode>AE</isoCode>
-            <label>Emirados Árabes Unidos</label>
+            <label>United Arab Emirates</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Afeganistão</integrationValue>
+            <integrationValue>Afghanistan</integrationValue>
             <isoCode>AF</isoCode>
-            <label>Afeganistão</label>
+            <label>Afghanistan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Antígua e Barbuda</integrationValue>
+            <integrationValue>Antigua and Barbuda</integrationValue>
             <isoCode>AG</isoCode>
-            <label>Antígua e Barbuda</label>
+            <label>Antigua and Barbuda</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -48,18 +48,18 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Albânia</integrationValue>
+            <integrationValue>Albania</integrationValue>
             <isoCode>AL</isoCode>
-            <label>Albânia</label>
+            <label>Albania</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Armênia</integrationValue>
+            <integrationValue>Armenia</integrationValue>
             <isoCode>AM</isoCode>
-            <label>Armênia</label>
+            <label>Armenia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -75,9 +75,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Antártida</integrationValue>
+            <integrationValue>Antarctica</integrationValue>
             <isoCode>AQ</isoCode>
-            <label>Antártida</label>
+            <label>Antarctica</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -93,41 +93,41 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Áustria</integrationValue>
+            <integrationValue>Austria</integrationValue>
             <isoCode>AT</isoCode>
-            <label>Áustria</label>
+            <label>Austria</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Austrália</integrationValue>
+            <integrationValue>Australia</integrationValue>
             <isoCode>AU</isoCode>
-            <label>Austrália</label>
+            <label>Australia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <states>
                 <active>true</active>
-                <integrationValue>Território da capital australiana</integrationValue>
+                <integrationValue>Australian Capital Territory</integrationValue>
                 <isoCode>ACT</isoCode>
-                <label>Território da capital australiana</label>
+                <label>Australian Capital Territory</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Nova Gales do Sul</integrationValue>
+                <integrationValue>New South Wales</integrationValue>
                 <isoCode>NSW</isoCode>
-                <label>Nova Gales do Sul</label>
+                <label>New South Wales</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Território do Norte</integrationValue>
+                <integrationValue>Northern Territory</integrationValue>
                 <isoCode>NT</isoCode>
-                <label>Território do Norte</label>
+                <label>Northern Territory</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -141,17 +141,17 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Sul da Austrália</integrationValue>
+                <integrationValue>South Australia</integrationValue>
                 <isoCode>SA</isoCode>
-                <label>Sul da Austrália</label>
+                <label>South Australia</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Tasmânia</integrationValue>
+                <integrationValue>Tasmania</integrationValue>
                 <isoCode>TAS</isoCode>
-                <label>Tasmânia</label>
+                <label>Tasmania</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -165,9 +165,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Oeste da Austrália</integrationValue>
+                <integrationValue>Western Australia</integrationValue>
                 <isoCode>WA</isoCode>
-                <label>Oeste da Austrália</label>
+                <label>Western Australia</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -184,27 +184,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilhas Aland</integrationValue>
+            <integrationValue>Aland Islands</integrationValue>
             <isoCode>AX</isoCode>
-            <label>Ilhas Aland</label>
+            <label>Aland Islands</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Azerbaijão</integrationValue>
+            <integrationValue>Azerbaijan</integrationValue>
             <isoCode>AZ</isoCode>
-            <label>Azerbaijão</label>
+            <label>Azerbaijan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Bósnia-Herzegovina</integrationValue>
+            <integrationValue>Bosnia and Herzegovina</integrationValue>
             <isoCode>BA</isoCode>
-            <label>Bósnia-Herzegovina</label>
+            <label>Bosnia and Herzegovina</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -229,27 +229,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Bélgica</integrationValue>
+            <integrationValue>Belgium</integrationValue>
             <isoCode>BE</isoCode>
-            <label>Bélgica</label>
+            <label>Belgium</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Burkina Fasso</integrationValue>
+            <integrationValue>Burkina Faso</integrationValue>
             <isoCode>BF</isoCode>
-            <label>Burkina Fasso</label>
+            <label>Burkina Faso</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Bulgária</integrationValue>
+            <integrationValue>Bulgaria</integrationValue>
             <isoCode>BG</isoCode>
-            <label>Bulgária</label>
+            <label>Bulgaria</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -283,9 +283,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>São Bartolomeu</integrationValue>
+            <integrationValue>Saint Barthélemy</integrationValue>
             <isoCode>BL</isoCode>
-            <label>São Bartolomeu</label>
+            <label>Saint Barthélemy</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -310,27 +310,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Bolívia, Estado Plurinacional da</integrationValue>
+            <integrationValue>Bolivia, Plurinational State of</integrationValue>
             <isoCode>BO</isoCode>
-            <label>Bolívia, Estado Plurinacional da</label>
+            <label>Bolivia, Plurinational State of</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Bonaire, Santo Eustáquio e Saba</integrationValue>
+            <integrationValue>Bonaire, Sint Eustatius and Saba</integrationValue>
             <isoCode>BQ</isoCode>
-            <label>Bonaire, Santo Eustáquio e Saba</label>
+            <label>Bonaire, Sint Eustatius and Saba</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Brasil</integrationValue>
+            <integrationValue>Brazil</integrationValue>
             <isoCode>BR</isoCode>
-            <label>Brasil</label>
+            <label>Brazil</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <states>
@@ -562,27 +562,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Butão</integrationValue>
+            <integrationValue>Bhutan</integrationValue>
             <isoCode>BT</isoCode>
-            <label>Butão</label>
+            <label>Bhutan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilha Bouvet</integrationValue>
+            <integrationValue>Bouvet Island</integrationValue>
             <isoCode>BV</isoCode>
-            <label>Ilha Bouvet</label>
+            <label>Bouvet Island</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Botsuana</integrationValue>
+            <integrationValue>Botswana</integrationValue>
             <isoCode>BW</isoCode>
-            <label>Botsuana</label>
+            <label>Botswana</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -607,9 +607,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Canadá</integrationValue>
+            <integrationValue>Canada</integrationValue>
             <isoCode>CA</isoCode>
-            <label>Canadá</label>
+            <label>Canada</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <states>
@@ -622,9 +622,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Colúmbia Britânica</integrationValue>
+                <integrationValue>British Columbia</integrationValue>
                 <isoCode>BC</isoCode>
-                <label>Colúmbia Britânica</label>
+                <label>British Columbia</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -638,33 +638,33 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Nova Brunswick</integrationValue>
+                <integrationValue>New Brunswick</integrationValue>
                 <isoCode>NB</isoCode>
-                <label>Nova Brunswick</label>
+                <label>New Brunswick</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Terra Nova e Labrador</integrationValue>
+                <integrationValue>Newfoundland and Labrador</integrationValue>
                 <isoCode>NL</isoCode>
-                <label>Terra Nova e Labrador</label>
+                <label>Newfoundland and Labrador</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Nova Escócia</integrationValue>
+                <integrationValue>Nova Scotia</integrationValue>
                 <isoCode>NS</isoCode>
-                <label>Nova Escócia</label>
+                <label>Nova Scotia</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Territórios do Noroeste</integrationValue>
+                <integrationValue>Northwest Territories</integrationValue>
                 <isoCode>NT</isoCode>
-                <label>Territórios do Noroeste</label>
+                <label>Northwest Territories</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -678,17 +678,17 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Ontário</integrationValue>
+                <integrationValue>Ontario</integrationValue>
                 <isoCode>ON</isoCode>
-                <label>Ontário</label>
+                <label>Ontario</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Ilha do Príncipe Eduardo</integrationValue>
+                <integrationValue>Prince Edward Island</integrationValue>
                 <isoCode>PE</isoCode>
-                <label>Ilha do Príncipe Eduardo</label>
+                <label>Prince Edward Island</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -710,9 +710,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Territórios Yukon</integrationValue>
+                <integrationValue>Yukon Territories</integrationValue>
                 <isoCode>YT</isoCode>
-                <label>Territórios Yukon</label>
+                <label>Yukon Territories</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -720,27 +720,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilhas Cocos (Keeling)</integrationValue>
+            <integrationValue>Cocos (Keeling) Islands</integrationValue>
             <isoCode>CC</isoCode>
-            <label>Ilhas Cocos (Keeling)</label>
+            <label>Cocos (Keeling) Islands</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Congo, a República Democrática do</integrationValue>
+            <integrationValue>Congo, the Democratic Republic of the</integrationValue>
             <isoCode>CD</isoCode>
-            <label>Congo, a República Democrática do</label>
+            <label>Congo, the Democratic Republic of the</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>República Centro-Africana</integrationValue>
+            <integrationValue>Central African Republic</integrationValue>
             <isoCode>CF</isoCode>
-            <label>República Centro-Africana</label>
+            <label>Central African Republic</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -756,27 +756,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Suíça</integrationValue>
+            <integrationValue>Switzerland</integrationValue>
             <isoCode>CH</isoCode>
-            <label>Suíça</label>
+            <label>Switzerland</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Costa do Marfim</integrationValue>
+            <integrationValue>Cote d&apos;Ivoire</integrationValue>
             <isoCode>CI</isoCode>
-            <label>Costa do Marfim</label>
+            <label>Cote d&apos;Ivoire</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilhas Cook</integrationValue>
+            <integrationValue>Cook Islands</integrationValue>
             <isoCode>CK</isoCode>
-            <label>Ilhas Cook</label>
+            <label>Cook Islands</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -792,9 +792,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Camarões</integrationValue>
+            <integrationValue>Cameroon</integrationValue>
             <isoCode>CM</isoCode>
-            <label>Camarões</label>
+            <label>Cameroon</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -808,9 +808,9 @@
             <standard>true</standard>
             <states>
                 <active>true</active>
-                <integrationValue>Pequim</integrationValue>
+                <integrationValue>Beijing</integrationValue>
                 <isoCode>11</isoCode>
-                <label>Pequim</label>
+                <label>Beijing</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -872,9 +872,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Xangai</integrationValue>
+                <integrationValue>Shanghai</integrationValue>
                 <isoCode>31</isoCode>
-                <label>Xangai</label>
+                <label>Shanghai</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -1056,9 +1056,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Taiwan</integrationValue>
+                <integrationValue>Chinese Taipei</integrationValue>
                 <isoCode>71</isoCode>
-                <label>Taiwan</label>
+                <label>Chinese Taipei</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -1072,9 +1072,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Macau</integrationValue>
+                <integrationValue>Macao</integrationValue>
                 <isoCode>92</isoCode>
-                <label>Macau</label>
+                <label>Macao</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -1082,9 +1082,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Colômbia</integrationValue>
+            <integrationValue>Colombia</integrationValue>
             <isoCode>CO</isoCode>
-            <label>Colômbia</label>
+            <label>Colombia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -1109,9 +1109,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Cabo Verde</integrationValue>
+            <integrationValue>Cape Verde</integrationValue>
             <isoCode>CV</isoCode>
-            <label>Cabo Verde</label>
+            <label>Cape Verde</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -1127,54 +1127,54 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilha Christmas</integrationValue>
+            <integrationValue>Christmas Island</integrationValue>
             <isoCode>CX</isoCode>
-            <label>Ilha Christmas</label>
+            <label>Christmas Island</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Chipre</integrationValue>
+            <integrationValue>Cyprus</integrationValue>
             <isoCode>CY</isoCode>
-            <label>Chipre</label>
+            <label>Cyprus</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>República Tcheca</integrationValue>
+            <integrationValue>Czech Republic</integrationValue>
             <isoCode>CZ</isoCode>
-            <label>República Tcheca</label>
+            <label>Czech Republic</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Alemanha</integrationValue>
+            <integrationValue>Germany</integrationValue>
             <isoCode>DE</isoCode>
-            <label>Alemanha</label>
+            <label>Germany</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Djibuti</integrationValue>
+            <integrationValue>Djibouti</integrationValue>
             <isoCode>DJ</isoCode>
-            <label>Djibuti</label>
+            <label>Djibouti</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Dinamarca</integrationValue>
+            <integrationValue>Denmark</integrationValue>
             <isoCode>DK</isoCode>
-            <label>Dinamarca</label>
+            <label>Denmark</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -1190,90 +1190,90 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>República Dominicana</integrationValue>
+            <integrationValue>Dominican Republic</integrationValue>
             <isoCode>DO</isoCode>
-            <label>República Dominicana</label>
+            <label>Dominican Republic</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Argélia</integrationValue>
+            <integrationValue>Algeria</integrationValue>
             <isoCode>DZ</isoCode>
-            <label>Argélia</label>
+            <label>Algeria</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Equador</integrationValue>
+            <integrationValue>Ecuador</integrationValue>
             <isoCode>EC</isoCode>
-            <label>Equador</label>
+            <label>Ecuador</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Estônia</integrationValue>
+            <integrationValue>Estonia</integrationValue>
             <isoCode>EE</isoCode>
-            <label>Estônia</label>
+            <label>Estonia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Egito</integrationValue>
+            <integrationValue>Egypt</integrationValue>
             <isoCode>EG</isoCode>
-            <label>Egito</label>
+            <label>Egypt</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Saara Ocidental</integrationValue>
+            <integrationValue>Western Sahara</integrationValue>
             <isoCode>EH</isoCode>
-            <label>Saara Ocidental</label>
+            <label>Western Sahara</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Eritreia</integrationValue>
+            <integrationValue>Eritrea</integrationValue>
             <isoCode>ER</isoCode>
-            <label>Eritreia</label>
+            <label>Eritrea</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Espanha</integrationValue>
+            <integrationValue>Spain</integrationValue>
             <isoCode>ES</isoCode>
-            <label>Espanha</label>
+            <label>Spain</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Etiópia</integrationValue>
+            <integrationValue>Ethiopia</integrationValue>
             <isoCode>ET</isoCode>
-            <label>Etiópia</label>
+            <label>Ethiopia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Finlândia</integrationValue>
+            <integrationValue>Finland</integrationValue>
             <isoCode>FI</isoCode>
-            <label>Finlândia</label>
+            <label>Finland</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -1289,72 +1289,72 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilhas Falkland (Malvinas)</integrationValue>
+            <integrationValue>Falkland Islands (Malvinas)</integrationValue>
             <isoCode>FK</isoCode>
-            <label>Ilhas Falkland (Malvinas)</label>
+            <label>Falkland Islands (Malvinas)</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilhas Faroé</integrationValue>
+            <integrationValue>Faroe Islands</integrationValue>
             <isoCode>FO</isoCode>
-            <label>Ilhas Faroé</label>
+            <label>Faroe Islands</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>França</integrationValue>
+            <integrationValue>France</integrationValue>
             <isoCode>FR</isoCode>
-            <label>França</label>
+            <label>France</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Gabão</integrationValue>
+            <integrationValue>Gabon</integrationValue>
             <isoCode>GA</isoCode>
-            <label>Gabão</label>
+            <label>Gabon</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Reino Unido</integrationValue>
+            <integrationValue>United Kingdom</integrationValue>
             <isoCode>GB</isoCode>
-            <label>Reino Unido</label>
+            <label>United Kingdom</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Granada</integrationValue>
+            <integrationValue>Grenada</integrationValue>
             <isoCode>GD</isoCode>
-            <label>Granada</label>
+            <label>Grenada</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Geórgia</integrationValue>
+            <integrationValue>Georgia</integrationValue>
             <isoCode>GE</isoCode>
-            <label>Geórgia</label>
+            <label>Georgia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Guiana Francesa</integrationValue>
+            <integrationValue>French Guiana</integrationValue>
             <isoCode>GF</isoCode>
-            <label>Guiana Francesa</label>
+            <label>French Guiana</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -1370,9 +1370,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Gana</integrationValue>
+            <integrationValue>Ghana</integrationValue>
             <isoCode>GH</isoCode>
-            <label>Gana</label>
+            <label>Ghana</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -1388,63 +1388,63 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Groelândia</integrationValue>
+            <integrationValue>Greenland</integrationValue>
             <isoCode>GL</isoCode>
-            <label>Groelândia</label>
+            <label>Greenland</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Gâmbia</integrationValue>
+            <integrationValue>Gambia</integrationValue>
             <isoCode>GM</isoCode>
-            <label>Gâmbia</label>
+            <label>Gambia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Guiné</integrationValue>
+            <integrationValue>Guinea</integrationValue>
             <isoCode>GN</isoCode>
-            <label>Guiné</label>
+            <label>Guinea</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Guadalupe</integrationValue>
+            <integrationValue>Guadeloupe</integrationValue>
             <isoCode>GP</isoCode>
-            <label>Guadalupe</label>
+            <label>Guadeloupe</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Guiné-Equatorial</integrationValue>
+            <integrationValue>Equatorial Guinea</integrationValue>
             <isoCode>GQ</isoCode>
-            <label>Guiné-Equatorial</label>
+            <label>Equatorial Guinea</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Grécia</integrationValue>
+            <integrationValue>Greece</integrationValue>
             <isoCode>GR</isoCode>
-            <label>Grécia</label>
+            <label>Greece</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilhas Geórgia do Sul e Sandwich do Sul</integrationValue>
+            <integrationValue>South Georgia and the South Sandwich Islands</integrationValue>
             <isoCode>GS</isoCode>
-            <label>Ilhas Geórgia do Sul e Sandwich do Sul</label>
+            <label>South Georgia and the South Sandwich Islands</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -1460,27 +1460,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Guiné-Bissau</integrationValue>
+            <integrationValue>Guinea-Bissau</integrationValue>
             <isoCode>GW</isoCode>
-            <label>Guiné-Bissau</label>
+            <label>Guinea-Bissau</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Guiana</integrationValue>
+            <integrationValue>Guyana</integrationValue>
             <isoCode>GY</isoCode>
-            <label>Guiana</label>
+            <label>Guyana</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilha Heard e Ilhas McDonald</integrationValue>
+            <integrationValue>Heard Island and McDonald Islands</integrationValue>
             <isoCode>HM</isoCode>
-            <label>Ilha Heard e Ilhas McDonald</label>
+            <label>Heard Island and McDonald Islands</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -1496,9 +1496,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Croácia</integrationValue>
+            <integrationValue>Croatia</integrationValue>
             <isoCode>HR</isoCode>
-            <label>Croácia</label>
+            <label>Croatia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -1514,27 +1514,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Hungria</integrationValue>
+            <integrationValue>Hungary</integrationValue>
             <isoCode>HU</isoCode>
-            <label>Hungria</label>
+            <label>Hungary</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Indonésia</integrationValue>
+            <integrationValue>Indonesia</integrationValue>
             <isoCode>ID</isoCode>
-            <label>Indonésia</label>
+            <label>Indonesia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Irlanda</integrationValue>
+            <integrationValue>Ireland</integrationValue>
             <isoCode>IE</isoCode>
-            <label>Irlanda</label>
+            <label>Ireland</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <states>
@@ -1758,25 +1758,25 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilha de Man</integrationValue>
+            <integrationValue>Isle of Man</integrationValue>
             <isoCode>IM</isoCode>
-            <label>Ilha de Man</label>
+            <label>Isle of Man</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Índia</integrationValue>
+            <integrationValue>India</integrationValue>
             <isoCode>IN</isoCode>
-            <label>Índia</label>
+            <label>India</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <states>
                 <active>true</active>
-                <integrationValue>Ilhas Andaman e Nicobar</integrationValue>
+                <integrationValue>Andaman and Nicobar Islands</integrationValue>
                 <isoCode>AN</isoCode>
-                <label>Ilhas Andaman e Nicobar</label>
+                <label>Andaman and Nicobar Islands</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -1830,9 +1830,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Daman e Diu</integrationValue>
+                <integrationValue>Daman and Diu</integrationValue>
                 <isoCode>DD</isoCode>
-                <label>Daman e Diu</label>
+                <label>Daman and Diu</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -1846,9 +1846,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Dadra e Nagar Haveli</integrationValue>
+                <integrationValue>Dadra and Nagar Haveli</integrationValue>
                 <isoCode>DN</isoCode>
-                <label>Dadra e Nagar Haveli</label>
+                <label>Dadra and Nagar Haveli</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -1894,9 +1894,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Jammu e Kashmir</integrationValue>
+                <integrationValue>Jammu and Kashmir</integrationValue>
                 <isoCode>JK</isoCode>
-                <label>Jammu e Kashmir</label>
+                <label>Jammu and Kashmir</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2014,14 +2014,6 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Telangana</integrationValue>
-                <isoCode>TG</isoCode>
-                <label>Telangana</label>
-                <standard>true</standard>
-                <visible>true</visible>
-            </states>
-            <states>
-                <active>true</active>
                 <integrationValue>Tamil Nadu</integrationValue>
                 <isoCode>TN</isoCode>
                 <label>Tamil Nadu</label>
@@ -2064,45 +2056,45 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Território Britânico do Oceano Índico</integrationValue>
+            <integrationValue>British Indian Ocean Territory</integrationValue>
             <isoCode>IO</isoCode>
-            <label>Território Britânico do Oceano Índico</label>
+            <label>British Indian Ocean Territory</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Iraque</integrationValue>
+            <integrationValue>Iraq</integrationValue>
             <isoCode>IQ</isoCode>
-            <label>Iraque</label>
+            <label>Iraq</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Irã, República Islâmica do</integrationValue>
+            <integrationValue>Iran, Islamic Republic of</integrationValue>
             <isoCode>IR</isoCode>
-            <label>Irã, República Islâmica do</label>
+            <label>Iran, Islamic Republic of</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Islândia</integrationValue>
+            <integrationValue>Iceland</integrationValue>
             <isoCode>IS</isoCode>
-            <label>Islândia</label>
+            <label>Iceland</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Itália</integrationValue>
+            <integrationValue>Italy</integrationValue>
             <isoCode>IT</isoCode>
-            <label>Itália</label>
+            <label>Italy</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <states>
@@ -2219,9 +2211,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Bolonha</integrationValue>
+                <integrationValue>Bologna</integrationValue>
                 <isoCode>BO</isoCode>
-                <label>Bolonha</label>
+                <label>Bologna</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2235,9 +2227,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Bréscia</integrationValue>
+                <integrationValue>Brescia</integrationValue>
                 <isoCode>BS</isoCode>
-                <label>Bréscia</label>
+                <label>Brescia</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2339,9 +2331,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Catânia</integrationValue>
+                <integrationValue>Catania</integrationValue>
                 <isoCode>CT</isoCode>
-                <label>Catânia</label>
+                <label>Catania</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2387,9 +2379,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Florença</integrationValue>
+                <integrationValue>Florence</integrationValue>
                 <isoCode>FI</isoCode>
-                <label>Florença</label>
+                <label>Florence</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2411,9 +2403,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Gênova</integrationValue>
+                <integrationValue>Genoa</integrationValue>
                 <isoCode>GE</isoCode>
-                <label>Gênova</label>
+                <label>Genoa</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2443,9 +2435,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Isérnia</integrationValue>
+                <integrationValue>Isernia</integrationValue>
                 <isoCode>IS</isoCode>
-                <label>Isérnia</label>
+                <label>Isernia</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2507,9 +2499,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Monza e Brianza</integrationValue>
+                <integrationValue>Monza and Brianza</integrationValue>
                 <isoCode>MB</isoCode>
-                <label>Monza e Brianza</label>
+                <label>Monza and Brianza</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2531,9 +2523,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Milão</integrationValue>
+                <integrationValue>Milan</integrationValue>
                 <isoCode>MI</isoCode>
-                <label>Milão</label>
+                <label>Milan</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2555,9 +2547,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Massa e Carrara</integrationValue>
+                <integrationValue>Massa and Carrara</integrationValue>
                 <isoCode>MS</isoCode>
-                <label>Massa e Carrara</label>
+                <label>Massa and Carrara</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2571,9 +2563,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Nápoles</integrationValue>
+                <integrationValue>Naples</integrationValue>
                 <isoCode>NA</isoCode>
-                <label>Nápoles</label>
+                <label>Naples</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2627,17 +2619,17 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Placência</integrationValue>
+                <integrationValue>Piacenza</integrationValue>
                 <isoCode>PC</isoCode>
-                <label>Placência</label>
+                <label>Piacenza</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Pádua</integrationValue>
+                <integrationValue>Padua</integrationValue>
                 <isoCode>PD</isoCode>
-                <label>Pádua</label>
+                <label>Padua</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2699,9 +2691,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Pesaro e Urbino</integrationValue>
+                <integrationValue>Pesaro and Urbino</integrationValue>
                 <isoCode>PU</isoCode>
-                <label>Pesaro e Urbino</label>
+                <label>Pesaro and Urbino</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2723,9 +2715,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Ravena</integrationValue>
+                <integrationValue>Ravenna</integrationValue>
                 <isoCode>RA</isoCode>
-                <label>Ravena</label>
+                <label>Ravenna</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2763,9 +2755,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Roma</integrationValue>
+                <integrationValue>Rome</integrationValue>
                 <isoCode>RM</isoCode>
-                <label>Roma</label>
+                <label>Rome</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2819,9 +2811,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Siracusa</integrationValue>
+                <integrationValue>Syracuse</integrationValue>
                 <isoCode>SR</isoCode>
-                <label>Siracusa</label>
+                <label>Syracuse</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2851,9 +2843,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Téramo</integrationValue>
+                <integrationValue>Teramo</integrationValue>
                 <isoCode>TE</isoCode>
-                <label>Téramo</label>
+                <label>Teramo</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2867,17 +2859,17 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Turim</integrationValue>
+                <integrationValue>Turin</integrationValue>
                 <isoCode>TO</isoCode>
-                <label>Turim</label>
+                <label>Turin</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Trápani</integrationValue>
+                <integrationValue>Trapani</integrationValue>
                 <isoCode>TP</isoCode>
-                <label>Trápani</label>
+                <label>Trapani</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -2939,9 +2931,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Veneza</integrationValue>
+                <integrationValue>Venice</integrationValue>
                 <isoCode>VE</isoCode>
-                <label>Veneza</label>
+                <label>Venice</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -3007,45 +2999,45 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Jordânia</integrationValue>
+            <integrationValue>Jordan</integrationValue>
             <isoCode>JO</isoCode>
-            <label>Jordânia</label>
+            <label>Jordan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Japão</integrationValue>
+            <integrationValue>Japan</integrationValue>
             <isoCode>JP</isoCode>
-            <label>Japão</label>
+            <label>Japan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Quênia</integrationValue>
+            <integrationValue>Kenya</integrationValue>
             <isoCode>KE</isoCode>
-            <label>Quênia</label>
+            <label>Kenya</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Quirguistão</integrationValue>
+            <integrationValue>Kyrgyzstan</integrationValue>
             <isoCode>KG</isoCode>
-            <label>Quirguistão</label>
+            <label>Kyrgyzstan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Camboja</integrationValue>
+            <integrationValue>Cambodia</integrationValue>
             <isoCode>KH</isoCode>
-            <label>Camboja</label>
+            <label>Cambodia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -3061,90 +3053,90 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Comores</integrationValue>
+            <integrationValue>Comoros</integrationValue>
             <isoCode>KM</isoCode>
-            <label>Comores</label>
+            <label>Comoros</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>São Cristóvão e Névis</integrationValue>
+            <integrationValue>Saint Kitts and Nevis</integrationValue>
             <isoCode>KN</isoCode>
-            <label>São Cristóvão e Névis</label>
+            <label>Saint Kitts and Nevis</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Coreia, República Democrática Popular da</integrationValue>
+            <integrationValue>Korea, Democratic People&apos;s Republic of</integrationValue>
             <isoCode>KP</isoCode>
-            <label>Coreia, República Democrática Popular da</label>
+            <label>Korea, Democratic People&apos;s Republic of</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Coreia, República da</integrationValue>
+            <integrationValue>Korea, Republic of</integrationValue>
             <isoCode>KR</isoCode>
-            <label>Coreia, República da</label>
+            <label>Korea, Republic of</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Kuweit</integrationValue>
+            <integrationValue>Kuwait</integrationValue>
             <isoCode>KW</isoCode>
-            <label>Kuweit</label>
+            <label>Kuwait</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilhas Caimã</integrationValue>
+            <integrationValue>Cayman Islands</integrationValue>
             <isoCode>KY</isoCode>
-            <label>Ilhas Caimã</label>
+            <label>Cayman Islands</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Cazaquistão</integrationValue>
+            <integrationValue>Kazakhstan</integrationValue>
             <isoCode>KZ</isoCode>
-            <label>Cazaquistão</label>
+            <label>Kazakhstan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>República Democrática Popular do Laos</integrationValue>
+            <integrationValue>Lao People&apos;s Democratic Republic</integrationValue>
             <isoCode>LA</isoCode>
-            <label>República Democrática Popular do Laos</label>
+            <label>Lao People&apos;s Democratic Republic</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Líbano</integrationValue>
+            <integrationValue>Lebanon</integrationValue>
             <isoCode>LB</isoCode>
-            <label>Líbano</label>
+            <label>Lebanon</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Santa Lúcia</integrationValue>
+            <integrationValue>Saint Lucia</integrationValue>
             <isoCode>LC</isoCode>
-            <label>Santa Lúcia</label>
+            <label>Saint Lucia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -3169,81 +3161,81 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Libéria</integrationValue>
+            <integrationValue>Liberia</integrationValue>
             <isoCode>LR</isoCode>
-            <label>Libéria</label>
+            <label>Liberia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Lesoto</integrationValue>
+            <integrationValue>Lesotho</integrationValue>
             <isoCode>LS</isoCode>
-            <label>Lesoto</label>
+            <label>Lesotho</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Lituânia</integrationValue>
+            <integrationValue>Lithuania</integrationValue>
             <isoCode>LT</isoCode>
-            <label>Lituânia</label>
+            <label>Lithuania</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Luxemburgo</integrationValue>
+            <integrationValue>Luxembourg</integrationValue>
             <isoCode>LU</isoCode>
-            <label>Luxemburgo</label>
+            <label>Luxembourg</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Letônia</integrationValue>
+            <integrationValue>Latvia</integrationValue>
             <isoCode>LV</isoCode>
-            <label>Letônia</label>
+            <label>Latvia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Líbia</integrationValue>
+            <integrationValue>Libyan Arab Jamahiriya</integrationValue>
             <isoCode>LY</isoCode>
-            <label>Líbia</label>
+            <label>Libyan Arab Jamahiriya</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Marrocos</integrationValue>
+            <integrationValue>Morocco</integrationValue>
             <isoCode>MA</isoCode>
-            <label>Marrocos</label>
+            <label>Morocco</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Mônaco</integrationValue>
+            <integrationValue>Monaco</integrationValue>
             <isoCode>MC</isoCode>
-            <label>Mônaco</label>
+            <label>Monaco</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Moldávia, República da</integrationValue>
+            <integrationValue>Moldova, Republic of</integrationValue>
             <isoCode>MD</isoCode>
-            <label>Moldávia, República da</label>
+            <label>Moldova, Republic of</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -3259,27 +3251,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>São Martinho (França)</integrationValue>
+            <integrationValue>Saint Martin (French part)</integrationValue>
             <isoCode>MF</isoCode>
-            <label>São Martinho (França)</label>
+            <label>Saint Martin (French part)</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Madagáscar</integrationValue>
+            <integrationValue>Madagascar</integrationValue>
             <isoCode>MG</isoCode>
-            <label>Madagáscar</label>
+            <label>Madagascar</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Macedônia, Antiga República Iugoslava da</integrationValue>
+            <integrationValue>Macedonia, the former Yugoslav Republic of</integrationValue>
             <isoCode>MK</isoCode>
-            <label>Macedônia, Antiga República Iugoslava da</label>
+            <label>Macedonia, the former Yugoslav Republic of</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -3295,45 +3287,45 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Mianmar</integrationValue>
+            <integrationValue>Myanmar</integrationValue>
             <isoCode>MM</isoCode>
-            <label>Mianmar</label>
+            <label>Myanmar</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Mongólia</integrationValue>
+            <integrationValue>Mongolia</integrationValue>
             <isoCode>MN</isoCode>
-            <label>Mongólia</label>
+            <label>Mongolia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Macau</integrationValue>
+            <integrationValue>Macao</integrationValue>
             <isoCode>MO</isoCode>
-            <label>Macau</label>
+            <label>Macao</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Martinica</integrationValue>
+            <integrationValue>Martinique</integrationValue>
             <isoCode>MQ</isoCode>
-            <label>Martinica</label>
+            <label>Martinique</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Mauritânia</integrationValue>
+            <integrationValue>Mauritania</integrationValue>
             <isoCode>MR</isoCode>
-            <label>Mauritânia</label>
+            <label>Mauritania</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -3358,36 +3350,36 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Maurício</integrationValue>
+            <integrationValue>Mauritius</integrationValue>
             <isoCode>MU</isoCode>
-            <label>Maurício</label>
+            <label>Mauritius</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Maldivas</integrationValue>
+            <integrationValue>Maldives</integrationValue>
             <isoCode>MV</isoCode>
-            <label>Maldivas</label>
+            <label>Maldives</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Malauí</integrationValue>
+            <integrationValue>Malawi</integrationValue>
             <isoCode>MW</isoCode>
-            <label>Malauí</label>
+            <label>Malawi</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>México</integrationValue>
+            <integrationValue>Mexico</integrationValue>
             <isoCode>MX</isoCode>
-            <label>México</label>
+            <label>Mexico</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <states>
@@ -3650,90 +3642,90 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Malásia</integrationValue>
+            <integrationValue>Malaysia</integrationValue>
             <isoCode>MY</isoCode>
-            <label>Malásia</label>
+            <label>Malaysia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Moçambique</integrationValue>
+            <integrationValue>Mozambique</integrationValue>
             <isoCode>MZ</isoCode>
-            <label>Moçambique</label>
+            <label>Mozambique</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Namíbia</integrationValue>
+            <integrationValue>Namibia</integrationValue>
             <isoCode>NA</isoCode>
-            <label>Namíbia</label>
+            <label>Namibia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Nova Caledônia</integrationValue>
+            <integrationValue>New Caledonia</integrationValue>
             <isoCode>NC</isoCode>
-            <label>Nova Caledônia</label>
+            <label>New Caledonia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Níger</integrationValue>
+            <integrationValue>Niger</integrationValue>
             <isoCode>NE</isoCode>
-            <label>Níger</label>
+            <label>Niger</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilha Norfolk</integrationValue>
+            <integrationValue>Norfolk Island</integrationValue>
             <isoCode>NF</isoCode>
-            <label>Ilha Norfolk</label>
+            <label>Norfolk Island</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Nigéria</integrationValue>
+            <integrationValue>Nigeria</integrationValue>
             <isoCode>NG</isoCode>
-            <label>Nigéria</label>
+            <label>Nigeria</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Nicarágua</integrationValue>
+            <integrationValue>Nicaragua</integrationValue>
             <isoCode>NI</isoCode>
-            <label>Nicarágua</label>
+            <label>Nicaragua</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Holanda</integrationValue>
+            <integrationValue>Netherlands</integrationValue>
             <isoCode>NL</isoCode>
-            <label>Holanda</label>
+            <label>Netherlands</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Noruega</integrationValue>
+            <integrationValue>Norway</integrationValue>
             <isoCode>NO</isoCode>
-            <label>Noruega</label>
+            <label>Norway</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -3767,27 +3759,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Nova Zelândia</integrationValue>
+            <integrationValue>New Zealand</integrationValue>
             <isoCode>NZ</isoCode>
-            <label>Nova Zelândia</label>
+            <label>New Zealand</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Omã</integrationValue>
+            <integrationValue>Oman</integrationValue>
             <isoCode>OM</isoCode>
-            <label>Omã</label>
+            <label>Oman</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Panamá</integrationValue>
+            <integrationValue>Panama</integrationValue>
             <isoCode>PA</isoCode>
-            <label>Panamá</label>
+            <label>Panama</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -3803,54 +3795,54 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Polinésia Francesa</integrationValue>
+            <integrationValue>French Polynesia</integrationValue>
             <isoCode>PF</isoCode>
-            <label>Polinésia Francesa</label>
+            <label>French Polynesia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Papua Nova Guiné</integrationValue>
+            <integrationValue>Papua New Guinea</integrationValue>
             <isoCode>PG</isoCode>
-            <label>Papua Nova Guiné</label>
+            <label>Papua New Guinea</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Filipinas</integrationValue>
+            <integrationValue>Philippines</integrationValue>
             <isoCode>PH</isoCode>
-            <label>Filipinas</label>
+            <label>Philippines</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Paquistão</integrationValue>
+            <integrationValue>Pakistan</integrationValue>
             <isoCode>PK</isoCode>
-            <label>Paquistão</label>
+            <label>Pakistan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Polônia</integrationValue>
+            <integrationValue>Poland</integrationValue>
             <isoCode>PL</isoCode>
-            <label>Polônia</label>
+            <label>Poland</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Saint Pierre e Miquelon</integrationValue>
+            <integrationValue>Saint Pierre and Miquelon</integrationValue>
             <isoCode>PM</isoCode>
-            <label>Saint Pierre e Miquelon</label>
+            <label>Saint Pierre and Miquelon</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -3866,9 +3858,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Palestina</integrationValue>
+            <integrationValue>Palestinian Territory, Occupied</integrationValue>
             <isoCode>PS</isoCode>
-            <label>Palestina</label>
+            <label>Palestinian Territory, Occupied</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -3884,162 +3876,162 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Paraguai</integrationValue>
+            <integrationValue>Paraguay</integrationValue>
             <isoCode>PY</isoCode>
-            <label>Paraguai</label>
+            <label>Paraguay</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Catar</integrationValue>
+            <integrationValue>Qatar</integrationValue>
             <isoCode>QA</isoCode>
-            <label>Catar</label>
+            <label>Qatar</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Reunião</integrationValue>
+            <integrationValue>Reunion</integrationValue>
             <isoCode>RE</isoCode>
-            <label>Reunião</label>
+            <label>Reunion</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Romênia</integrationValue>
+            <integrationValue>Romania</integrationValue>
             <isoCode>RO</isoCode>
-            <label>Romênia</label>
+            <label>Romania</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Sérvia</integrationValue>
+            <integrationValue>Serbia</integrationValue>
             <isoCode>RS</isoCode>
-            <label>Sérvia</label>
+            <label>Serbia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Federação Russa</integrationValue>
+            <integrationValue>Russian Federation</integrationValue>
             <isoCode>RU</isoCode>
-            <label>Federação Russa</label>
+            <label>Russian Federation</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ruanda</integrationValue>
+            <integrationValue>Rwanda</integrationValue>
             <isoCode>RW</isoCode>
-            <label>Ruanda</label>
+            <label>Rwanda</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Arábia Saudita</integrationValue>
+            <integrationValue>Saudi Arabia</integrationValue>
             <isoCode>SA</isoCode>
-            <label>Arábia Saudita</label>
+            <label>Saudi Arabia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilhas Salomão</integrationValue>
+            <integrationValue>Solomon Islands</integrationValue>
             <isoCode>SB</isoCode>
-            <label>Ilhas Salomão</label>
+            <label>Solomon Islands</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Seicheles</integrationValue>
+            <integrationValue>Seychelles</integrationValue>
             <isoCode>SC</isoCode>
-            <label>Seicheles</label>
+            <label>Seychelles</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Sudão</integrationValue>
+            <integrationValue>Sudan</integrationValue>
             <isoCode>SD</isoCode>
-            <label>Sudão</label>
+            <label>Sudan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Suécia</integrationValue>
+            <integrationValue>Sweden</integrationValue>
             <isoCode>SE</isoCode>
-            <label>Suécia</label>
+            <label>Sweden</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Cingapura</integrationValue>
+            <integrationValue>Singapore</integrationValue>
             <isoCode>SG</isoCode>
-            <label>Cingapura</label>
+            <label>Singapore</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Santa Helena, Ascensão e Tristão da Cunha</integrationValue>
+            <integrationValue>Saint Helena, Ascension and Tristan da Cunha</integrationValue>
             <isoCode>SH</isoCode>
-            <label>Santa Helena, Ascensão e Tristão da Cunha</label>
+            <label>Saint Helena, Ascension and Tristan da Cunha</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Eslovênia</integrationValue>
+            <integrationValue>Slovenia</integrationValue>
             <isoCode>SI</isoCode>
-            <label>Eslovênia</label>
+            <label>Slovenia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Svalbard e Jan Mayen</integrationValue>
+            <integrationValue>Svalbard and Jan Mayen</integrationValue>
             <isoCode>SJ</isoCode>
-            <label>Svalbard e Jan Mayen</label>
+            <label>Svalbard and Jan Mayen</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Eslováquia</integrationValue>
+            <integrationValue>Slovakia</integrationValue>
             <isoCode>SK</isoCode>
-            <label>Eslováquia</label>
+            <label>Slovakia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Serra Leoa</integrationValue>
+            <integrationValue>Sierra Leone</integrationValue>
             <isoCode>SL</isoCode>
-            <label>Serra Leoa</label>
+            <label>Sierra Leone</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -4064,9 +4056,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Somália</integrationValue>
+            <integrationValue>Somalia</integrationValue>
             <isoCode>SO</isoCode>
-            <label>Somália</label>
+            <label>Somalia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -4082,18 +4074,18 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Sudão do Sul</integrationValue>
+            <integrationValue>South Sudan</integrationValue>
             <isoCode>SS</isoCode>
-            <label>Sudão do Sul</label>
+            <label>South Sudan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>São Tomé e Príncipe</integrationValue>
+            <integrationValue>Sao Tome and Principe</integrationValue>
             <isoCode>ST</isoCode>
-            <label>São Tomé e Príncipe</label>
+            <label>Sao Tome and Principe</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -4109,54 +4101,54 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>São Martinho (Caraíbas)</integrationValue>
+            <integrationValue>Sint Maarten (Dutch part)</integrationValue>
             <isoCode>SX</isoCode>
-            <label>São Martinho (Caraíbas)</label>
+            <label>Sint Maarten (Dutch part)</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>República Árabe da Síria</integrationValue>
+            <integrationValue>Syrian Arab Republic</integrationValue>
             <isoCode>SY</isoCode>
-            <label>República Árabe da Síria</label>
+            <label>Syrian Arab Republic</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Suazilândia</integrationValue>
+            <integrationValue>Swaziland</integrationValue>
             <isoCode>SZ</isoCode>
-            <label>Suazilândia</label>
+            <label>Swaziland</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilhas Turcos e Caicos</integrationValue>
+            <integrationValue>Turks and Caicos Islands</integrationValue>
             <isoCode>TC</isoCode>
-            <label>Ilhas Turcos e Caicos</label>
+            <label>Turks and Caicos Islands</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Chade</integrationValue>
+            <integrationValue>Chad</integrationValue>
             <isoCode>TD</isoCode>
-            <label>Chade</label>
+            <label>Chad</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Territórios Franceses do Sul</integrationValue>
+            <integrationValue>French Southern Territories</integrationValue>
             <isoCode>TF</isoCode>
-            <label>Territórios Franceses do Sul</label>
+            <label>French Southern Territories</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -4172,18 +4164,18 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Tailândia</integrationValue>
+            <integrationValue>Thailand</integrationValue>
             <isoCode>TH</isoCode>
-            <label>Tailândia</label>
+            <label>Thailand</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Tadjiquistão</integrationValue>
+            <integrationValue>Tajikistan</integrationValue>
             <isoCode>TJ</isoCode>
-            <label>Tadjiquistão</label>
+            <label>Tajikistan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -4199,27 +4191,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Timor Leste</integrationValue>
+            <integrationValue>Timor-Leste</integrationValue>
             <isoCode>TL</isoCode>
-            <label>Timor Leste</label>
+            <label>Timor-Leste</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Turcomenistão</integrationValue>
+            <integrationValue>Turkmenistan</integrationValue>
             <isoCode>TM</isoCode>
-            <label>Turcomenistão</label>
+            <label>Turkmenistan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Tunísia</integrationValue>
+            <integrationValue>Tunisia</integrationValue>
             <isoCode>TN</isoCode>
-            <label>Tunísia</label>
+            <label>Tunisia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -4235,18 +4227,18 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Turquia</integrationValue>
+            <integrationValue>Turkey</integrationValue>
             <isoCode>TR</isoCode>
-            <label>Turquia</label>
+            <label>Turkey</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Trinidad e Tobago</integrationValue>
+            <integrationValue>Trinidad and Tobago</integrationValue>
             <isoCode>TT</isoCode>
-            <label>Trinidad e Tobago</label>
+            <label>Trinidad and Tobago</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -4262,27 +4254,27 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Taiwan</integrationValue>
+            <integrationValue>Chinese Taipei</integrationValue>
             <isoCode>TW</isoCode>
-            <label>Taiwan</label>
+            <label>Chinese Taipei</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Tanzânia, República Unida da</integrationValue>
+            <integrationValue>Tanzania, United Republic of</integrationValue>
             <isoCode>TZ</isoCode>
-            <label>Tanzânia, República Unida da</label>
+            <label>Tanzania, United Republic of</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ucrânia</integrationValue>
+            <integrationValue>Ukraine</integrationValue>
             <isoCode>UA</isoCode>
-            <label>Ucrânia</label>
+            <label>Ukraine</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -4298,10 +4290,10 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Estados Unidos</integrationValue>
+            <integrationValue>United States</integrationValue>
             <isoCode>US</isoCode>
-            <label>Estados Unidos</label>
-            <orgDefault>false</orgDefault>
+            <label>United States</label>
+            <orgDefault>true</orgDefault>
             <standard>true</standard>
             <states>
                 <active>false</active>
@@ -4353,9 +4345,9 @@
             </states>
             <states>
                 <active>false</active>
-                <integrationValue>Samoa Americana</integrationValue>
+                <integrationValue>American Samoa</integrationValue>
                 <isoCode>AS</isoCode>
-                <label>Samoa Americana</label>
+                <label>American Samoa</label>
                 <standard>true</standard>
                 <visible>false</visible>
             </states>
@@ -4425,9 +4417,9 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Geórgia</integrationValue>
+                <integrationValue>Georgia</integrationValue>
                 <isoCode>GA</isoCode>
-                <label>Geórgia</label>
+                <label>Georgia</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -4529,9 +4521,9 @@
             </states>
             <states>
                 <active>false</active>
-                <integrationValue>Ilhas Marshall</integrationValue>
+                <integrationValue>Marshall Islands</integrationValue>
                 <isoCode>MH</isoCode>
-                <label>Ilhas Marshall</label>
+                <label>Marshall Islands</label>
                 <standard>true</standard>
                 <visible>false</visible>
             </states>
@@ -4561,9 +4553,9 @@
             </states>
             <states>
                 <active>false</active>
-                <integrationValue>Ilhas Marianas do Norte</integrationValue>
+                <integrationValue>Northern Mariana Islands</integrationValue>
                 <isoCode>MP</isoCode>
-                <label>Ilhas Marianas do Norte</label>
+                <label>Northern Mariana Islands</label>
                 <standard>true</standard>
                 <visible>false</visible>
             </states>
@@ -4681,9 +4673,9 @@
             </states>
             <states>
                 <active>false</active>
-                <integrationValue>Porto Rico</integrationValue>
+                <integrationValue>Puerto Rico</integrationValue>
                 <isoCode>PR</isoCode>
-                <label>Porto Rico</label>
+                <label>Puerto Rico</label>
                 <standard>true</standard>
                 <visible>false</visible>
             </states>
@@ -4697,25 +4689,25 @@
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Ilha Rhode</integrationValue>
+                <integrationValue>Rhode Island</integrationValue>
                 <isoCode>RI</isoCode>
-                <label>Ilha Rhode</label>
+                <label>Rhode Island</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Carolina do Sul</integrationValue>
+                <integrationValue>South Carolina</integrationValue>
                 <isoCode>SC</isoCode>
-                <label>Carolina do Sul</label>
+                <label>South Carolina</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
             <states>
                 <active>true</active>
-                <integrationValue>Dakota do Sul</integrationValue>
+                <integrationValue>South Dakota</integrationValue>
                 <isoCode>SD</isoCode>
-                <label>Dakota do Sul</label>
+                <label>South Dakota</label>
                 <standard>true</standard>
                 <visible>true</visible>
             </states>
@@ -4737,9 +4729,9 @@
             </states>
             <states>
                 <active>false</active>
-                <integrationValue>Ilhas Menores Distantes dos Estados Unidos</integrationValue>
+                <integrationValue>United States Minor Outlying Islands</integrationValue>
                 <isoCode>UM</isoCode>
-                <label>Ilhas Menores Distantes dos Estados Unidos</label>
+                <label>United States Minor Outlying Islands</label>
                 <standard>true</standard>
                 <visible>false</visible>
             </states>
@@ -4761,9 +4753,9 @@
             </states>
             <states>
                 <active>false</active>
-                <integrationValue>Ilhas Virgens dos EUA</integrationValue>
+                <integrationValue>US Virgin Islands</integrationValue>
                 <isoCode>VI</isoCode>
-                <label>Ilhas Virgens dos EUA</label>
+                <label>US Virgin Islands</label>
                 <standard>true</standard>
                 <visible>false</visible>
             </states>
@@ -4811,63 +4803,63 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Uruguai</integrationValue>
+            <integrationValue>Uruguay</integrationValue>
             <isoCode>UY</isoCode>
-            <label>Uruguai</label>
+            <label>Uruguay</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Uzbequistão</integrationValue>
+            <integrationValue>Uzbekistan</integrationValue>
             <isoCode>UZ</isoCode>
-            <label>Uzbequistão</label>
+            <label>Uzbekistan</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Santa Sé (Estado da Cidade do Vaticano)</integrationValue>
+            <integrationValue>Holy See (Vatican City State)</integrationValue>
             <isoCode>VA</isoCode>
-            <label>Santa Sé (Estado da Cidade do Vaticano)</label>
+            <label>Holy See (Vatican City State)</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>São Vicente e Granadinas</integrationValue>
+            <integrationValue>Saint Vincent and the Grenadines</integrationValue>
             <isoCode>VC</isoCode>
-            <label>São Vicente e Granadinas</label>
+            <label>Saint Vincent and the Grenadines</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Venezuela, República Bolivariana da</integrationValue>
+            <integrationValue>Venezuela, Bolivarian Republic of</integrationValue>
             <isoCode>VE</isoCode>
-            <label>Venezuela, República Bolivariana da</label>
+            <label>Venezuela, Bolivarian Republic of</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Ilhas Virgens, Britânicas</integrationValue>
+            <integrationValue>Virgin Islands, British</integrationValue>
             <isoCode>VG</isoCode>
-            <label>Ilhas Virgens, Britânicas</label>
+            <label>Virgin Islands, British</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Vietnã</integrationValue>
+            <integrationValue>Viet Nam</integrationValue>
             <isoCode>VN</isoCode>
-            <label>Vietnã</label>
+            <label>Viet Nam</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -4883,9 +4875,9 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Wallis e Futuna</integrationValue>
+            <integrationValue>Wallis and Futuna</integrationValue>
             <isoCode>WF</isoCode>
-            <label>Wallis e Futuna</label>
+            <label>Wallis and Futuna</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
@@ -4901,45 +4893,45 @@
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Iêmen</integrationValue>
+            <integrationValue>Yemen</integrationValue>
             <isoCode>YE</isoCode>
-            <label>Iêmen</label>
+            <label>Yemen</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Maiote</integrationValue>
+            <integrationValue>Mayotte</integrationValue>
             <isoCode>YT</isoCode>
-            <label>Maiote</label>
+            <label>Mayotte</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>África do Sul</integrationValue>
+            <integrationValue>South Africa</integrationValue>
             <isoCode>ZA</isoCode>
-            <label>África do Sul</label>
+            <label>South Africa</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Zâmbia</integrationValue>
+            <integrationValue>Zambia</integrationValue>
             <isoCode>ZM</isoCode>
-            <label>Zâmbia</label>
+            <label>Zambia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>
         </countries>
         <countries>
             <active>true</active>
-            <integrationValue>Zimbábue</integrationValue>
+            <integrationValue>Zimbabwe</integrationValue>
             <isoCode>ZW</isoCode>
-            <label>Zimbábue</label>
+            <label>Zimbabwe</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>

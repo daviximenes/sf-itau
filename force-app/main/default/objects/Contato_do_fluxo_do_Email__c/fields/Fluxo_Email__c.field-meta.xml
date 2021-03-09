@@ -3,7 +3,7 @@
     <fullName>Fluxo_Email__c</fullName>
     <externalId>false</externalId>
     <label>Fluxo de Email</label>
-    <referenceTo>Fluxo_de_Email__c</referenceTo>
+    <referenceTo>Fluxo_Email__c</referenceTo>
     <relationshipLabel>Contatos do fluxo do Email</relationshipLabel>
     <relationshipName>Contatos_do_fluxo_do_Email</relationshipName>
     <relationshipOrder>0</relationshipOrder>
